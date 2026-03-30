@@ -1,5 +1,5 @@
 #!/bin/bash
 #
-zip -r pa-au.zip . -i "*.au"
-zip -r pa-wav.zip . -i "*.wav"
-zip -r pa-ulaw.zip . -i "*.ulaw"
+zip -r zips/pa-au.zip . -i "*.au"
+zip -r zips/pa-wav.zip . -i "*.wav"
+zip -r zips/pa-ulaw.zip . -i "*.ulaw"
